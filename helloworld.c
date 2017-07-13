@@ -3,6 +3,6 @@ int main()
 {
     printf("hello-world\n");
     printf("creating a new branch is quick");
-    printf("the new deff");
+    printf("the new diff");
     return 0;
 }
