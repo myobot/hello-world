@@ -6,5 +6,6 @@ int main()
     printf("the new diff");
     printf("git stash");
     printf("git stash2");
+    printf("my change");
     return 0;
 }
